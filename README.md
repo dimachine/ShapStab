@@ -8,7 +8,7 @@ This repository contains the companion iPython notebook and datasets for the pap
 *We propose the usage of two power indices from cooperative game theory and public choice theory for ranking attributes of closed sets, namely intents of formal concepts (or closed itemsets). The introduced indices are related to extensional concept stability and based on count- ing generators, especially those that contain a selected attribute. The introduction of such indices is motivated by the so-called interpretable machine learning, which supposes that we do not only have the class membership decision of a trained model for a particular object, but also a set of attributes (in the form of JSM-hypotheses or other patterns) along with individual importance of their single attributes (or more complex constituent elements). We characterise computation of Shapley and Banzhaf values of a formal concept in terms of minimal generators and their order filters, provide the reader with their properties important for computation purposes, and show experimental results.*
 
 
-There is also our work on Shapley values for JSM-method in terms of Concept Lattices (FCA) presented in the paper:
+There is also our work on Shapley values for rule-based (classification) JSM-method in terms of Concept Lattices (FCA) presented in the paper:
 
 * [Dmitry I. Ignatov, Léonard Kwuida: Interpretable Concept-Based Classification with Shapley Values. ICCS 2020: 90-102](https://doi.org/10.1007/978-3-030-57855-8_7).
 
