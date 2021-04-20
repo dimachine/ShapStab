@@ -73,4 +73,6 @@ To acknowledge use of the code and data in publications, please cite the followi
 
 #Banzhaf index
 
+#Penrose index
+
 #Formal Concept Analysis
